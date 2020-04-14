@@ -327,6 +327,7 @@ Package
 Process
 ProcessBuilder
 Readable
+Record
 ReflectiveOperationException
 Runnable
 Runtime
